@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Akomspatrick/EmilokanFakerReact/static/css/main.cfa416ec.css",
+    "main.js": "/Akomspatrick/EmilokanFakerReact/static/js/main.e8944e48.js",
+    "static/js/787.d5736c4a.chunk.js": "/Akomspatrick/EmilokanFakerReact/static/js/787.d5736c4a.chunk.js",
+    "static/media/logo.svg": "/Akomspatrick/EmilokanFakerReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Akomspatrick/EmilokanFakerReact/index.html",
+    "main.cfa416ec.css.map": "/Akomspatrick/EmilokanFakerReact/static/css/main.cfa416ec.css.map",
+    "main.e8944e48.js.map": "/Akomspatrick/EmilokanFakerReact/static/js/main.e8944e48.js.map",
+    "787.d5736c4a.chunk.js.map": "/Akomspatrick/EmilokanFakerReact/static/js/787.d5736c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa416ec.css",
+    "static/js/main.e8944e48.js"
+  ]
+}
