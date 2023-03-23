@@ -1,6 +1,6 @@
 {
-  "name": "emilokanfakerreact",
-  "version": "1.1.0",
+  "name": "emilokanfakerreact" ,
+  "version": "1.1.0" ,
   "private": true,
   "homepage": "https://akomspatrick.github.io/emilokanfakerreact",
   "dependencies": {
