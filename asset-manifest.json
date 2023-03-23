@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/emilokanfakerreact/static/css/main.cfa416ec.css",
-    "main.js": "/emilokanfakerreact/static/js/main.962df6c7.js",
-    "static/js/787.f1b66028.chunk.js": "/emilokanfakerreact/static/js/787.f1b66028.chunk.js",
-    "static/media/logo.svg": "/emilokanfakerreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/emilokanfakerreact/index.html",
-    "main.cfa416ec.css.map": "/emilokanfakerreact/static/css/main.cfa416ec.css.map",
-    "main.962df6c7.js.map": "/emilokanfakerreact/static/js/main.962df6c7.js.map",
-    "787.f1b66028.chunk.js.map": "/emilokanfakerreact/static/js/787.f1b66028.chunk.js.map"
+    "main.css": "/EmilokanFakerReact/static/css/main.cfa416ec.css",
+    "main.js": "/EmilokanFakerReact/static/js/main.626c35c9.js",
+    "static/js/787.f1b66028.chunk.js": "/EmilokanFakerReact/static/js/787.f1b66028.chunk.js",
+    "static/media/logo.svg": "/EmilokanFakerReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EmilokanFakerReact/index.html",
+    "main.cfa416ec.css.map": "/EmilokanFakerReact/static/css/main.cfa416ec.css.map",
+    "main.626c35c9.js.map": "/EmilokanFakerReact/static/js/main.626c35c9.js.map",
+    "787.f1b66028.chunk.js.map": "/EmilokanFakerReact/static/js/787.f1b66028.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfa416ec.css",
-    "static/js/main.962df6c7.js"
+    "static/js/main.626c35c9.js"
   ]
 }
