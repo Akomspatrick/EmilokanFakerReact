@@ -6,7 +6,7 @@ import logo from './logo.svg';
 const MyCard = (props) => {
   return (
     <Card style={{ width: "18rem", color: "red" }}>
-      <Card.Img variant="top" src={faker.image.city()} />
+      <Card.Img variant="top" src={faker.image.cats()} />
       <Card.Body>
         <Card.Title>{props.header}</Card.Title>
         {props.children}
